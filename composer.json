@@ -1,0 +1,13 @@
+{
+  "name": "vhraban/blade-string-renderer",
+  "require": {
+    "illuminate/view": "~5",
+    "illuminate/support": "~5",
+    "illuminate/log": "~5"
+  },
+  "autoload": {
+    "psr-4": {
+      "BladeStringRenderer\\": "src/"
+    }
+  }
+}
